@@ -3,8 +3,7 @@
 
 ++Booking.com Interview Question asked for Senior SRE Role++
 
-## Guests may want to visit multiple cities during one trip. Hotels in these cities offer various prices
-## for the different days within the guest's trip.
+## Guests may want to visit multiple cities during one trip. Hotels in these cities offer various prices for the different days within the guest's trip.
 
 ## Your goal: Find the cost of the trips that match the guest's budget.
 
@@ -13,8 +12,7 @@
 2. A budget(in EUR) the guest wants to spend at most for the entire trip.
 3. A map containing the daily prices(in EUR) of the hotels in the cities the guest would like to visit during the trip.
 
-## For the sake of simplicity you can assume there is only one hotel per city in the input list, meaning all
-## hotels in the list must be visited by the guest.
+## For the sake of simplicity you can assume there is only one hotel per city in the input list, meaning all hotels in the list must be visited by the guest.
 
 output:
 Sorted list(asc) of prices for the trips matching the guest's budget
